@@ -6,3 +6,4 @@ IBM Coach: Christa Zoufal (@Zoufalc)
 
 We are building an tight integration of Qiskit capabilities with PyTorch. One may seamlessly use tools from both frameworks with integrated functionality.
 
+[Image](./qizgloria-front.JPEG)
