@@ -10,4 +10,6 @@ We are building a tight integration of Qiskit capabilities with PyTorch. One may
 
 Our "Hello World!" notebook involves training parameters for a 1-qubit rotation, in order to attain a target expectation value. The specified cost function is the mean squared error and the chosen torch optimiser is Adam.
 
+UPDATE: this project has been integrated in the Qiskit Open Source Textbook. Have a look over [there](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html) for cleaned code and extended explanations!
+
 ![qizgloria-front](./qizgloria-front.JPG?raw=true)
